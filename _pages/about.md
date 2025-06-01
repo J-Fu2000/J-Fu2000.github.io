@@ -28,8 +28,6 @@ Oct 2023 - Present<br />
 ### University College London
 <p style="line-height:1.0">
 <font size="2">
-
-  
 Oct 2022 - Sep 2023<br />
 &nbsp;&nbsp;&nbsp;&nbsp;∙ MRes in Brain Sciences<br />
 &nbsp;&nbsp;&nbsp;&nbsp;∙ Distinction
@@ -48,23 +46,27 @@ Oct 2019 - Jun 2022<br />
 
 Awards
 ------
+CSC Cambridge Scholarship 
 <p style="line-height:1.0">
 <font size="2">
-CSC Cambridge Scholarship 
-Jul 2023<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Associated with University of Cambridge<br />
+∙ Jul 2023<br />
+∙ Associated with University of Cambridge<br />
+</font>
+</p>
 
 Convenor's Prize for The Microbiome
 <p style="line-height:1.0">
 <font size="2">
-Oct 2022<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Associated with Imperial College London<br />
+∙ Oct 2022<br />
+∙ Associated with Imperial College London<br />
+</font>
+</p>
 
 Eurofins Foundation Undergraduate Prize 2019-2020
 <p style="line-height:1.0">
 <font size="2">
-Sep 2020<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Associated with Imperial College London<br />
+∙ Sep 2020<br />
+∙ Associated with Imperial College London<br />
 </font>
 </p>
 
