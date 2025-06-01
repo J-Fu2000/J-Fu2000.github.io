@@ -45,19 +45,19 @@ Oct 2019 - Jun 2022<br />
 </p>
 
 Awards
------
+------
 CSC Cambridge Scholarship 
 <p style="line-height:1.0">
 <font size="2">
 Jul 2023<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Associated with University of Cambridge<br />
------
+------
 Convenor's Prize for The Microbiome
 <p style="line-height:1.0">
 <font size="2">
 Oct 2022<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Associated with Imperial College London<br />
------
+------
 Eurofins Foundation Undergraduate Prize 2019-2020
 <p style="line-height:1.0">
 <font size="2">
@@ -65,5 +65,5 @@ Sep 2020<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Associated with Imperial College London<br />
 
 Publications 
------
+------
 TBD
