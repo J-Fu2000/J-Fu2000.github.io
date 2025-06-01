@@ -25,6 +25,7 @@ Oct 2023 - Present<br />
 </p>
 -----
 <img style="float: left; margin:5px 10px" src="../images/university-college-london-ucl-seeklogo.png" width="180" height="130">
+<div style="clear: both;"></div>
 ### University College London
 <p style="line-height:1.0">
 <font size="2">
