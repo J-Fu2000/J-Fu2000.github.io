@@ -15,7 +15,7 @@ My project is still in its early stages and open to new ideas and opportunities 
 
 Education
 -----
-<img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
+<img style="float: left; margin:5px 10px" src="../images/ucam-logo-colour-preferred.jpg" width="180" height="130">
 ### University of Cambridge
 <p style="line-height:1.0">
 <font size="2">
@@ -24,7 +24,7 @@ Oct 2023 - Present<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/IMPERIAL_logo_RGB_Blue_safe_area_2024.png" width="180" height="130">
+<img style="float: left; margin:5px 10px" src="../images/university-college-london-ucl-seeklogo.png" width="180" height="130">
 ### University College London
 <p style="line-height:1.0">
 <font size="2">
